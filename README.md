@@ -15,3 +15,9 @@
 
 **Query Parameters**  
 # - `limit` (optional): Number of products to return (default: 5)
+
+
+# install dependecies
+` npm install`
+# run code
+`node server.js`
