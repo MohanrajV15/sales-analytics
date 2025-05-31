@@ -1,0 +1,10 @@
+
+[2025-05-31T10:47:02.801Z] Error loading CSV: Cannot read properties of undefined (reading 'upsert')
+[2025-05-31T10:49:16.470Z] Error loading CSV: Cannot read properties of undefined (reading 'upsert')
+[2025-05-31T10:50:33.694Z] Error loading CSV: Cannot read properties of undefined (reading 'upsert')
+[2025-05-31T10:50:37.470Z] Error loading CSV: Cannot read properties of undefined (reading 'upsert')
+[2025-05-31T10:51:40.388Z] Error loading CSV: Cannot read properties of undefined (reading 'upsert')
+[2025-05-31T10:57:17.426Z] Error loading CSV: Cannot read properties of undefined (reading 'upsert')
+[2025-05-31T10:59:12.862Z] Error loading CSV: Product.upsert is not a function
+[2025-05-31T11:03:32.133Z] Error loading CSV: Unknown column 'id' in 'field list'
+[2025-05-31T11:08:00.079Z] CSV data loaded successfully.
